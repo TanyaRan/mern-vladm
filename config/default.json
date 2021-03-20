@@ -1,6 +1,6 @@
 {
   "port": 5000,
-  "jwtSecret": "aTmN1@9*()",
-  "mongoUri": "mongodb+srv://tandy:usertandy@cluster0.yoxyh.mongodb.net/merndemo?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "mongoUri": "mongoUri",
   "baseUrl": "http://localhost:5000"
 }
